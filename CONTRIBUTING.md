@@ -11,6 +11,8 @@ pip install numpy
 pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
 ```
 3. From your fork of the repo: `pip install -e .`
+4. The project can also be installed with curl:
+`curl -L -o curl.zip https://github.com/jimouris/cur/archive/refs/heads/main.zip` 
 
 ## Pull Requests
 We actively welcome your pull requests.
